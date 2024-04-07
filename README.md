@@ -4,7 +4,7 @@
 pyspark-large
 ==============================
 
-ke the analysis of pyspark with 100 million rows data
+The analysis a 100 million rows data using pyspark
 
 Project Organization
 ------------
