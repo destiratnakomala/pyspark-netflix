@@ -1,5 +1,3 @@
-pyspark
-
 The analysis a 100 million rows data using pyspark
 
 Project Organization
